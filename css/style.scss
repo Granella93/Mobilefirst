@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+
+main{
+    padding-top: 5em;
+}
+img{
+    margin-bottom: 2em;
+}
+
+.btn{
+    display: flex;
+    width: 10em;
+    margin: auto;
+    justify-content: center;
+}
+
+.collapse{
+    display: flex;
+    width: 55vw;
+    margin: auto;
+    justify-content: center;
+}
+.card{
+    display: flex;
+    width: 55vw;
+    margin: auto;
+    justify-content: center;
+    margin-bottom: 2em;
+}
+
+p{
+    text-align: center;
+}
